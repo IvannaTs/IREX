@@ -567,7 +567,7 @@ section {
 
 .intro .intro-text .logo {
   width: 955.98px;
-  height: 263.84px;
+  height: auto;
 }
 
 .intro-title {
