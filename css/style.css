@@ -743,6 +743,7 @@ section {
 
 .about .inner-flex {
   margin-top: 19px !important;
+  align-items: center;
 }
 
 .about .about-decor {
@@ -754,8 +755,8 @@ section {
 }
 
 .about-decor .decor {
-  width: 366px;
-  height: 401px;
+  width: 470px;
+  height: auto;
 }
 
 .pad-t-30 {
